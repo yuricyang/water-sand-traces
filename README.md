@@ -1,5 +1,6 @@
 # water-sand-traces
-Goldsmiths 2026 summer final project 
+Goldsmiths 2026 summer final project  
+**Github link: https://github.com/yuricyang/water-sand-traces**
 <img width="1920" height="1080" alt="Water, Sand, Traces pic description" src="https://github.com/user-attachments/assets/e7e5ea29-86c2-411c-bb9c-0a69deb10a90" /><br>
 Website: https://www.jihuiyang.com/Water,%20Sand,%20Traces.html<br>
 ## Intro
