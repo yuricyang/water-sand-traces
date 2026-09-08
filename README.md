@@ -45,10 +45,10 @@ The visual part of using water and sand inspired from Dove Bradshaw’s work sal
 <img width="1184" height="663" alt="C30B5617-5A93-4A15-88FF-FFE467406F02_1_105_c" src="https://github.com/user-attachments/assets/b4e2e8d9-9698-4c26-8691-e42a0dc33f11" />
 
 ## Contributes
-Author: Jihui Yang
-Professor: Mattia Paganelli 
-Olivier Pasquet 
-All staffs in Goldmiths computational art & Tech Teams
+Author: Jihui Yang  
+Professor: Mattia Paganelli  
+Olivier Pasquet  
+All staffs in Goldmiths computational art & Tech Teams  
 
 
 ## Links
